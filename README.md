@@ -32,7 +32,7 @@ Verify all files against the SHA-256 values below. The [v4.5.9 release page](htt
 
 | File | SHA-256 |
 | --- | --- |
-| `dione-wallet-v4.5.9.exe` | `730497d75196ab3f2372525f065db96418be26b8b82637fbc7ac54deffd771e2` |
+| `dione-wallet-v4.5.9.exe` | `3497dceed41d75ebe729e327e09e8f0ed5ef4bab3d5c3c573e88f97b32163af8` |
 | `dione-wallet-v4.5.9.dmg` | `18b946828e0a44fb0c58b221a824b4ad6ae19d2b9879ca9811c783988bad2747` |
 | `dione-wallet-v4.5.9.zip` | `9108488c1f8d65e881de438acaaf0cccca1522869ee3c3a2d141f5470e1d8457` |
 
