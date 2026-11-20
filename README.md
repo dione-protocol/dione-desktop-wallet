@@ -45,7 +45,7 @@ Verify all files against the SHA-256 values below. The [v4.5.9 release page](htt
 
 ---
 
-## What DIONE Wallet is
+## What DIONE Wallet is?
 
 DIONE Wallet is the desktop application that holds, sends and stakes DIONE Coin on Odyssey Chain. It generates keys on your machine, encrypts them with a password you choose, and keeps no server-side account: there is nothing to sign up for, no email confirmation, and no company holding a copy of your keys that could restore access for you. That last part is the whole design rather than a limitation of the current release.
 
